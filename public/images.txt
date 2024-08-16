@@ -1,0 +1,1 @@
+this directory will contains svg and ico files
